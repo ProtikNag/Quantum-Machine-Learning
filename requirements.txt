@@ -30,7 +30,7 @@ distro-info===0.18ubuntu0.18.04.1
 dj-database-url==0.4.2
 Django==2.2.6
 django-rest-auth==0.9.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 dlx==1.0.4
 docloud==1.0.375
 docplex==2.12.182
