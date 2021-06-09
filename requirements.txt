@@ -28,7 +28,7 @@ defusedxml==0.6.0
 dill==0.3.1.1
 distro-info===0.18ubuntu0.18.04.1
 dj-database-url==0.4.2
-Django==2.2.6
+Django==2.2.22
 django-rest-auth==0.9.5
 djangorestframework==3.10.3
 dlx==1.0.4
