@@ -64,7 +64,7 @@ itsdangerous==1.1.0
 javascript==2015.32.59
 jedi==0.14.1
 Jinja2==2.11.3
-joblib==0.14.1
+joblib==1.2.0
 jsonschema==3.2.0
 jupyter-client==5.3.1
 jupyter-console==5.2.0
