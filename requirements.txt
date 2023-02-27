@@ -20,7 +20,7 @@ constantly==15.1.0
 cryptography==2.8
 cssselect==1.0.3
 cupshelpers==1.0
-cvxopt==1.2.4
+cvxopt==1.2.7
 cycler==0.10.0
 decorator==4.4.1
 defer==1.0.6
