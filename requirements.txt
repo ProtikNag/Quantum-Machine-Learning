@@ -173,7 +173,7 @@ service-identity==18.1.0
 simplegeneric==0.8.1
 simplejson==3.13.2
 six==1.14.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 ssh-import-id==5.7
 sympy==1.5.1
 system-service==0.3
