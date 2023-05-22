@@ -159,7 +159,7 @@ qiskit-terra==0.11.1
 Quandl==3.5.0
 queuelib==1.5.0
 reportlab==3.4.0
-requests==2.22.0
+requests==2.31.0
 requests-ntlm==1.1.0
 requests-unixsocket==0.1.5
 scikit-image==0.15.0
